@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Database
+jobs_database.csv
+
+# IDE specific files
+.idea/
+.vscode/
