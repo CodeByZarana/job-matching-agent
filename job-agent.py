@@ -517,7 +517,7 @@ if __name__ == "__main__":
                 Looking for Full Stack Developer with experience in React.js, Spring Boot, AWS, Microservices, RESTful APIs, Docker, and Kubernetes.
                 
                 Requirements:
-                - 3+ years of experience in full stack development
+                - 2+ years of experience in full stack development
                 - Strong knowledge of React.js and Spring Boot
                 - Experience with AWS and containerization
                 - Bachelor's degree in Computer Science or related field
